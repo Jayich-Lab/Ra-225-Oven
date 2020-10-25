@@ -13,9 +13,9 @@ The assembly allows for independent control of 4 oven tubes. Each tube can be fi
   
 
 # Operating Temperature:
-We can run a maximum of 10 amps through each tube. The max current is limited by the flange rating (power supplies can run 10.6 amps). Based on the red glow of the titanium tube, we know that the oven reaches temperatures of at least 500 C. The oven begins to glow around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts. My uninformed estimate is that the temperature at max current is somewhere around 800C.
+We can run a maximum of 10 amps through each tube. The max current is limited by the flange rating (power supplies can run 10.6 amps). We know that the oven reaches temperatures of at least 500 C because we observe Ti64 tube glowing red. The tube begins to glow around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts. My uninformed estimate is that the temperature at max current is somewhere around 800C.
 
-Thermocouple?
+Thermocouple to test max temp?
 
 # Chemistry:
 Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution.
