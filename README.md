@@ -13,7 +13,7 @@ The assembly allows for independent control of 4 oven tubes. Each tube can be fi
   
 
 # Operating Temperature:
-We can run a maximum of 10 amps through each tube. The max current is limited by the flange rating (power supplies can run 10.6 amps). We know that the oven reaches temperatures of at least 500 C because we observe Ti64 tube glowing red. The tube begins to glow around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts. My uninformed estimate is that the temperature at max current is somewhere around 800C.
+We can run a maximum of 10 amps through each tube. The max current is limited by the flange rating of 10 amos (power supplies can run 10.6 amps). We know that the oven reaches temperatures of at least 500 C because we observe the Ti64 tube glowing red. The tube begins to glow around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts. My uninformed estimate is that the temperature at max current is somewhere around 800C.
 
 Thermocouple to test max temp?
 
