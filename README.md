@@ -1,4 +1,5 @@
 # Ra225 Oven
+This project is in active development.
 
 Our Radium 224, 225, and 226 oven is DMLS printed out of Ti-6Al-4V alloy.
 
@@ -18,7 +19,7 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
   
 
 ### Operating Temperature:
-We can run a maximum of 10 amps through each tube. The current is limited by the maximum operating current of the flange. We know that the oven reaches temperatures of at least 500 C because we observe that the oven tubes begin to glow incandescently around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts.
+We can run a maximum of 10 amps, limited by the maximum operating current of the flange, through each tube. We know that the oven reaches temperatures of at least 500 C because we observe that the oven tubes begin to glow incandescently around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts.
 
 ### Chemistry:
 Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
