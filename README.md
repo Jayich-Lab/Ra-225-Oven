@@ -1,7 +1,7 @@
 # Ra225 Oven
 This project is in active development.
 
-Our Radium 224, 225, and 226 oven is DMLS printed out of Ti-6Al-4V alloy.
+Our oven is designed for Radium isotopes 224, 225, and 226. The oven is 3D printed out of Ti-6Al-4V alloy using Direct Metal Laser Sintering (DMLS).
 
 The oven design allows for independent control of 4 oven tubes. Each oven tube can be filled with a seperate isotope/element. Each tube has its own pin on the flange. All 4 tubes share a common ground. 
 
