@@ -25,15 +25,14 @@ Not Yet Tested: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. B
 
 Note: Ra226, Ra225, and Ra224 are sourced from the alpha decays of Th230, Th229, and Th228 respectively. 
 
-### Diagrams: 
+## Diagrams: 
 
-Resistive heating diagram:
+### Resistive heating diagram:
 ![resistive heating diagram](https://user-images.githubusercontent.com/59063892/97648399-df6a8b80-1a11-11eb-859c-16592824e004.png)
 
-Tube side view: 
-[tube side view.pdf](https://github.com/Jayich-Lab/Ra-225-Oven/files/5462377/tube.side.view.pdf)
+### Tube side view: 
+![Untitled drawing-22](https://user-images.githubusercontent.com/59063892/97648586-61f34b00-1a12-11eb-88e6-a09ac790a846.png)
 
-Top down view:
-[top down view.pdf](https://github.com/Jayich-Lab/Ra-225-Oven/files/5462382/top.down.view.pdf)
-
+### Top down view:
+![Untitled drawing-23](https://user-images.githubusercontent.com/59063892/97648666-8cdd9f00-1a12-11eb-9ff0-4c6a4e08561c.png)
 
