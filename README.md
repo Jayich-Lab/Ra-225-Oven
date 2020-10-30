@@ -3,8 +3,7 @@
 The Radium 224,225,and 226 oven is DMLS printed out of Ti-6Al-4V alloy.
 
 The oven design allows for independent control of 4 oven tubes. Each oven tube can be filled with a seperate isotope/element. Each tube has its own pin on the flange. All 4 tubes share a common ground. 
-
-[alt text](https://github.com/Jayich-Lab/Ra-225-Oven/blob/main/Image%20from%20iOS%20(1).jpg)
+![Image from iOS (1)](https://user-images.githubusercontent.com/59063892/97647675-19d32900-1a10-11eb-8847-1ad9ca5afd6a.jpg)
 
 # Dimensions:
   Height: 2.8cm (Not including flange and sockets. The assembly rests 3.25cm above the flange pins.)
