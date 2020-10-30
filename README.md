@@ -23,7 +23,7 @@ We can run a maximum of 10 amps through each tube. The current is limited by the
 ### Chemistry:
 Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
 
-Not Yet Tested: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. BaCO3 may also be added to act as a reducing agent.
+Not Yet Tested: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. BaCO3 may also be added as a reducing agent.
 
 Note: Ra226, Ra225, and Ra224 are sourced from the alpha decays of Th230, Th229, and Th228 respectively. 
 
