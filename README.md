@@ -17,11 +17,11 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
   
   Individual Tube Volume: 3uL.
   
-  Tube Outer Diameter: 0.15cm.
+  Tube Outer Diameter: 1.5mm.
   
-  Tube Inner Diameter: 0.075cm.
+  Tube Inner Diameter: 0.75mm.
   
-  Tube Depth: 0.7cm.
+  Tube Depth: 7mm.
   
 
 ### Operating Temperature:
