@@ -9,11 +9,11 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
 ![Image from iOS (1)](https://user-images.githubusercontent.com/59063892/97647675-19d32900-1a10-11eb-8847-1ad9ca5afd6a.jpg)
 
 ### Dimensions:
-  Assembly Height: 2.8cm. (Including gold sockets, the assembly rests 3.25cm above the flange pins.)
+  Assembly Height: 28mm. (Including gold sockets, the assembly rests 32.5mm above the flange pins.)
   
-  Assembly Length: 2.8cm.
+  Assembly Length: 28mm.
   
-  Assembly Width: 0.7cm.
+  Assembly Width: 7mm.
   
   Individual Tube Volume: 3uL.
   
