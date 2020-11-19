@@ -8,7 +8,7 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
 
 ![Image from iOS (1)](https://user-images.githubusercontent.com/59063892/97647675-19d32900-1a10-11eb-8847-1ad9ca5afd6a.jpg)
 
-### Dimensions:
+### Dimensions (v1 oven):
   Assembly Height: 28mm. (Including gold sockets, the assembly rests 32.5mm above the flange pins.)
   
   Assembly Length: 28mm.
@@ -23,7 +23,21 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
   
   Tube Depth: 7mm.
   
-
+### Dimensions (v2 oven):
+  Assembly Height: 37mm. (Including gold sockets, the assembly rests 41.5mm above the flange pins.)
+  
+  Assembly Length: 31mm.
+  
+  Assembly Width: 8.5mm.
+  
+  Individual Tube Volume: 10.75uL.
+  
+  Tube Outer Diameter: 2.2mm.
+  
+  Tube Inner Diameter: 1.4mm.
+  
+  Tube Depth: 7mm.
+  
 ### Operating Temperature:
 We can run a maximum of 10 amps, limited by the maximum operating current of the flange, through each tube. We know that the oven reaches temperatures of at least 500 C because we observe that the oven tubes begin to glow incandescently around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts.
 
