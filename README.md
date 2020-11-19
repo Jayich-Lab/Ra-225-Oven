@@ -8,7 +8,7 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
 
 ![Image from iOS (1)](https://user-images.githubusercontent.com/59063892/97647675-19d32900-1a10-11eb-8847-1ad9ca5afd6a.jpg)
 
-### Dimensions (v1 oven):
+### Dimensions V1 Oven (pictured):
   Assembly Height: 28mm. (Including gold sockets, the assembly rests 32.5mm above the flange pins.)
   
   Assembly Length: 28mm.
@@ -23,7 +23,7 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
   
   Tube Depth: 7mm.
   
-### Dimensions (v2 oven):
+### Dimensions V2 Oven:
   Assembly Height: 37mm. (Including gold sockets, the assembly rests 41.5mm above the flange pins.)
   
   Assembly Length: 31mm.
