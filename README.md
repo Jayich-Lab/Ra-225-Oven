@@ -42,6 +42,9 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
 We can run a maximum of 10 amps, limited by the maximum operating current of the flange, through each tube. We know that the oven reaches temperatures of at least 500 C because we observe that the oven tubes begin to glow incandescently around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts.
 
 ### Chemistry:
+
+Oven tubes are filled using a Hamilton brand syringe. 2 µL, Model 7102 KH SYR, Knurled Hub NDL, 23 ga, 2.75 in, point style 3, Catalog number: 88500
+
 Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
 
 Not Yet Tested: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. BaCO3 may also be added as a reducing agent.
