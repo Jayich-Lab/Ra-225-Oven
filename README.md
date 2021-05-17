@@ -44,6 +44,7 @@ We can run a maximum of 10 amps, limited by the maximum operating current of the
 ### Chemistry:
 
 Oven tubes are filled using a Hamilton brand syringe. 2 µL, Model 7102 KH SYR, Knurled Hub NDL, 23 ga, 2.75 in, point style 3, Catalog number: 88500
+[purchase here](https://www.hamiltoncompany.com/laboratory-products/syringes/88500)
 
 Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
 
