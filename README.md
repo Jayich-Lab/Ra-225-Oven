@@ -1,7 +1,7 @@
-# Ra225 Oven
-This project is in active development.
+# Ra-225 Oven
+This project is under active development.
 
-Our oven is designed for Radium isotopes 224, 225, and 226. The oven is 3D printed out of Ti-6Al-4V alloy using Direct Metal Laser Sintering (DMLS).
+Our oven is designed for radium isotopes 224, 225, and 226. We test the oven with analog elements such as strontium and barium. The oven is 3D printed out of Ti-6Al-4V alloy using Direct Metal Laser Sintering (DMLS).
 
 The oven design allows for independent control of 4 oven tubes. Each oven tube can be filled with a seperate isotope/element. Each tube has its own pin on the flange. All 4 tubes share a common ground. 
 
@@ -39,16 +39,16 @@ The oven design allows for independent control of 4 oven tubes. Each oven tube c
   Tube Depth: 7mm.
   
 ### Operating Temperature:
-We can run a maximum of 10 amps, limited by the maximum operating current of the flange, through each tube. We know that the oven reaches temperatures of at least 500 C because we observe that the oven tubes begin to glow incandescently around 7 amps, 20 watts. The oven can be run consistently at 10 amps, ~34 watts.
+We can run each oven tube at a maximum of 15 amps (limited by the maximum operating current of the flange). We know that the oven reaches temperatures of at least 1000K when we run at 15A, 69W. 
 
 ### Chemistry:
 
 Oven tubes are filled using a Hamilton brand syringe. 2 µL, Model 7102 KH SYR, Knurled Hub NDL, 23 ga, 2.75 in, point style 3, Catalog number: 88500
 [purchase here](https://www.hamiltoncompany.com/laboratory-products/syringes/88500)
 
-Already Tested: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
+Anolog tests: Grains of Ca and powdered SrCl2, grains of Ca and 0.1M SrCl2 solution, trace amounts of Ca and SrCl2. 
 
-Not Yet Tested: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. BaCO3 may also be added as a reducing agent.
+Radium tests: Ra226 and Zirconium, Ra225 and Zirconium, Ra224 and Zirconium. BaCO3 may also be added as a reducing agent.
 
 Note: Ra226, Ra225, and Ra224 are sourced from the alpha decays of Th230, Th229, and Th228 respectively. 
 
