@@ -1,7 +1,7 @@
 # Ra-225 Oven
-This project is under active development.
+This project is under active development. We are designing an orthotropic oven to be tested alongside the oven documented below. 
 
-Our oven is designed for radium isotopes 224, 225, and 226. We test the oven with analog elements such as strontium and barium. The oven is 3D printed out of Ti-6Al-4V alloy using Direct Metal Laser Sintering (DMLS).
+Our oven is designed to provide a atomic flux of radium isotopes 224, 225, and 226 that we can use to load our ion traps. We test the oven with analog elements such as strontium and barium. The oven is 3D printed out of Ti-6Al-4V alloy using Direct Metal Laser Sintering (DMLS).
 
 The oven design allows for independent control of 4 oven tubes. Each oven tube can be filled with a seperate isotope/element. Each tube has its own pin on the flange. All 4 tubes share a common ground. 
 
